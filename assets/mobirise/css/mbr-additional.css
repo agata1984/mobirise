@@ -695,8 +695,8 @@ a {
   top: 0;
 }
 .cid-tA4n1bEqyT {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-tA4n1bEqyT .mbr-fallback-image.disabled {
@@ -712,8 +712,8 @@ a {
   top: 0;
 }
 .cid-tA4nF25rqB {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-tA4nF25rqB .mbr-fallback-image.disabled {
@@ -764,6 +764,9 @@ a {
 }
 .cid-tA4nF25rqB .mbr-text {
   color: #555555;
+}
+.cid-tA4nF25rqB .card-title {
+  text-align: left;
 }
 .cid-tA4obs1eu7 {
   padding-top: 6rem;
